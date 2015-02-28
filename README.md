@@ -14,3 +14,5 @@ Ce projet est une initiation à Box2d Web. Il présente les fonctionnalités de bas
 Voir le [résultat final](http://maxime.chagnolleau.free.fr/tuto/box2dweb/tuto1/GIP_tuto_box2d_1/)
 
 Accéder au [tutoriel](https://maximechagnolleau.wordpress.com/2013/02/18/box2d-web-tuto-1-un-gros-cube-un-ptit-cube/)
+
+[Retour](https://github.com/maximechagnolleau/gameinprogress)
